@@ -1,3 +1,4 @@
-cap1. Intro
-cap1. flujo
-cap3. repo remoto
+cap1. intro
+cap2. Flujo
+cap3. gestion
+cap4. repo
